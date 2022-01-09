@@ -38,7 +38,7 @@ body{
     width: 500%;
     background-image: url("images/city.png");
     position: absolute;
-    top: 33vh;
+    top: 38vh;
     left: 0;
     background-repeat: repeat-x;
     animation: roadmoving 10s linear infinite;
